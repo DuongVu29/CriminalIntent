@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class CrimeActivity extends AppCompatActivity {
 
+    private String mIntentName;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
